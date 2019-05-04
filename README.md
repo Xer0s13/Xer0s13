@@ -17,8 +17,8 @@ Repositorio Oficial de Fire Media
 
 Pagina Oficial: http://www.xeros13.tk/ <br>
 Twitter: https://twitter.com/Xer0s13 <br>
-Correo:
-
+Correo: <br>
+Repositorio Oficial: https://github.com/Xeros13/Fire-Media
 
 <h1> Colaborar </h1>
 Si deseas colaborar con el proyecto eres bienvenido a hacerlo, pero ten en cuenta por favor estas pautas
