@@ -1,6 +1,6 @@
 # Xeros13
 Repositorio Oficial de Fire Media
-![](https://raw.githubusercontent.com/Xeros13/plugin.video.Fire-Media/icon.png)
+![](https://github.com/Xeros13/Fire-Media/blob/master/icon.png)
 
 
 
