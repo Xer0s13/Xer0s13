@@ -4,16 +4,6 @@ Repositorio personal
 
 
 
-
-
-
-
-
-
-
-
-
-
-Pagina Oficial :xeros13.tk
+Pagina Oficial :http://www.xeros13.tk/
 twitter :
 correo :
