@@ -11,7 +11,9 @@ Repositorio Oficial de Fire Media
 
 # **Images:**
 ![](http://www.xeros13.tk/images/screen1.jpg)
+<br>
 ![](http://www.xeros13.tk/images/screen2.jpg)
+<br>
 ![](http://www.xeros13.tk/images/screen3.jpg)
 
 Pagina Oficial: http://www.xeros13.tk/ <br>
