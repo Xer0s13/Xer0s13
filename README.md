@@ -1,5 +1,5 @@
 # Xer0s13
-Repositorio Oficial de Fire Media
+Repositorio Oficial de Xeros13
 <br>
 <br>
 ![](https://github.com/Xeros13/Fire-Media/blob/master/icon.png)
