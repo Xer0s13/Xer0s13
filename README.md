@@ -2,7 +2,7 @@
 Repositorio Oficial de Xeros13
 <br>
 <br>
-![](https://github.com/Xeros13/Fire-Media/blob/master/icon.png)
+![](http://www.xeros13.tk/images/logo.png)
 
 
 
