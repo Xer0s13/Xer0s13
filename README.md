@@ -9,7 +9,7 @@ Repositorio Oficial de Xeros13
 
 
 
-# **Images:**
+# **Imagenes:**
 ![](http://www.xeros13.tk/images/screen1.jpg)
 <br>
 ![](http://www.xeros13.tk/images/screen2.jpg)
