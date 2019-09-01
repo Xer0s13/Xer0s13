@@ -19,7 +19,7 @@ Repositorio Oficial de Xeros13
 Pagina Oficial: http://www.xeros13.tk/ <br>
 Twitter: https://twitter.com/Xer0s13 <br>
 Correo: <br>
-Repositorio Oficial: https://github.com/Xeros13/Fire-Media
+Repositorio Oficial: https://github.com/Xeros13/Xer0s13
 
 <h1> Colaborar </h1>
 Si deseas colaborar con el proyecto eres bienvenido a hacerlo, pero ten en cuenta por favor estas pautas
