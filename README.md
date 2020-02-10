@@ -2,7 +2,7 @@
 Repositorio Oficial de Xeros13
 <br>
 <br>
-![](http://www.xeros13.tk/images/logo.png)
+![](https://www.xeros13.tk/images/logo.png)
 
 
 
